@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
 ╠➥ *VIA PULSA* :      *Rp 5.000*
 ╠➥ *VIA DANA* :      *Rp 10.000*
 ╠➥ *VIA GOPAY* : *Rp 10.000*
-╠➥ *SEMUA PERMANENT* *PREMIUM = Rp10.000*
+╠➥ *SEMUA PERMANENT* *PREMIUM=Rp10.000*
 ║
 ╠═〘 𝐏𝐄𝐌𝐁𝐀𝐘𝐀𝐑𝐀𝐍 〙 ═
 ╠➥ Topup/Pin
