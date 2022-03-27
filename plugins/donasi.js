@@ -4,14 +4,14 @@ let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, await (await fet
 𝙃𝙖𝙣𝙮𝙖 𝙢𝙚𝙣𝙚𝙧𝙞𝙢𝙖 𝙢𝙖𝙩𝙖 𝙪𝙖𝙣𝙜 𝙢𝙖𝙡𝙖𝙮𝙨𝙞𝙖
 ╭═══════════════
 ║╭─── [ DONASI ] ───
-║│➸ _*UMOBILE*_✅ : 
-║│- 60189830350
+║│➸ _*GOPAY*_✅ : 
+║│- 6281250521455
 ║│
-║│➸ _*DIGI*_✅: 
-║│- 60149431385
+║│➸ _*DANA*_✅: 
+║│- 6281250521455
 ║│
 ║│➸ _*OWNER*_
-║│- wa.me/60189830350
+║│- wa.me/6281250521455
 ║╰────────────
 ╰═══════════════
 `.trim(), 'Donasi jan asal mencet', 'Owner Bot', '.owner')
