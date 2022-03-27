@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/c28ced67bbdd935c8f140.png" alt="LynnXzy🤸" width="200"/>
+<img src="https://telegra.ph/file/c28ced67bbdd935c8f140.png" alt="Ahmad BOT" width="200"/>
 
 
-<p align="center"> <a href="https://Lexxy24.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+LynXzy+Aowkwowkwkwkwk" alt="Lexxy Official" /> </a> </p>
+<p align="center"> <a href="https://Lexxy24.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Ahmad+Aowkwowkwkwkwk" alt="Lexxy Official" /> </a> </p>
 <p align="center">
-<a href="#"><img title="Botz Lyn" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Ahmad BOT" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 </p> 
@@ -35,8 +35,8 @@ Ganti session lu di `'./RadBotZ.json'`
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
 ```ts 
-OwnerNumber = ['wa.me/60189830350']
-GithubOwner = ['https://github.com/LANxBOT']
+OwnerNumber = ['wa.me/6281250521455']
+GithubOwner = ['https://github.com/AhmadBOTV3z']
 GroupOwner = ['https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD']
 Apikey? = Apikey kalian, tidak paham? chat saya di wangsaf!
 
@@ -56,8 +56,8 @@ global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/LynnXzy/scbotz-v1
-cd scbotz-v1
+git clone https://github.com/AhmadBOTV3z/AHMADBOT
+cd AHMADBOT
 npm install
 npm update
 ```
@@ -74,4 +74,4 @@ node .
 
 # My Sosial 
 - [Group ](https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD) 
-- [Whatsapp ](https://wa.me/60189830350)
+- [Whatsapp ](https://wa.me/6281250521455)
