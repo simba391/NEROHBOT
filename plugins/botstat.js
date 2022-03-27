@@ -11,8 +11,8 @@ let handler = async (m, { conn }) => {
     let str = `
 ╭═════════════════
 ║╭─❉ [𝐈𝐍𝐅𝐎𝐁𝐎𝐓] ❉───
-║│➸ NameBot: LynXzy
-║│➸ Main Owner: LanXzy
+║│➸ NameBot: AhmadBOT
+║│➸ Main Owner: AHMADBOT
 ║│➸ Operated Since: Lupa gw
 ║│➸ Language Used: Nodejs (JS)
 ║│➸ Server: Heroku
@@ -45,7 +45,7 @@ let handler = async (m, { conn }) => {
 ║│➸ ${nsfw ? '✅' : '❌'} *Mode Nsfw*
 ║╰─────────────────
 ╰══════════════════`.trim()
-     await conn.send2ButtonLoc(m.chat, await(await fetch(image)).buffer(), str, '©LynXzy💌', 'Owner', '.owner', 'Menu', '.menu', m)
+     await conn.send2ButtonLoc(m.chat, await(await fetch(image)).buffer(), str, '©AhmadBOT', 'Owner', '.owner', 'Menu', '.menu', m)
 }
 handler.help = ['botstatus']
 handler.tags = ['info']
