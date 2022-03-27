@@ -15,7 +15,7 @@ handler.all = async function (m, { isBlocked }) {
     try {
         if (m.mentionedJid.includes(this.user.jid) && m.isGroup) {
             await this.send2Button(m.chat,
-                isBanned ? 'LynXzy tidak aktif' : banned ? 'kamu dibanned' : 'ya?',
+                isBanned ? 'Ahmad tidak aktif' : banned ? 'kamu dibanned' : 'ya?',
                 '©AhmadBOT   ?',
                 isBanned ? 'Unban' : banned ? 'Pemilik Bot' : 'Menu',
                 isBanned ? '.unban' : banned ? '.owner' : '.?',
@@ -32,7 +32,7 @@ handler.all = async function (m, { isBlocked }) {
 ╠➥ *VIA PULSA* :      *Rp 5.000*
 ╠➥ *VIA DANA* : *Rp 10.000*
 ╠➥ *VIA GOPAY* :   *Rp 10.000*
-╠➥ *SEMUA PERMANENT*
+╠➥ *SEMUA PERMANENT* *PREMIUM:Rp10.000*
 ║
 ╠═〘 𝐏𝐄𝐌𝐁𝐀𝐘𝐀𝐑𝐀𝐍 〙 ═
 ╠➥ TOPUP/PIN
@@ -68,7 +68,7 @@ handler.all = async function (m, { isBlocked }) {
     if (new Date() * 1 - setting.status > 1000) {
         let _uptime = process.uptime() * 1000
         let uptime = clockString(_uptime)
-        await this.setStatus(`Aktif selama ${uptime} ⏲️| Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} 👾|Botz by AhmadBOT`).catch(_ => _)
+        await this.setStatus(`Aktif selama ${uptime} ⏲️| Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} 👾|Botz by AhmadBOT😎`).catch(_ => _)
         setting.status = new Date() * 1
     }
 
