@@ -60,7 +60,7 @@ let handler = async(m, { conn }) => {
         sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
         {title: 'Menu Utama', description: "Kembali ke Menu Utama", rowId:".?"},
         {title: 'Sewa Bot', description: "Sewa bot dengan memasukkan bot ke grup kamu", rowId:".sewa"},
-        {title: 'Group Bot', description: "Official Group Bot Lyn", rowId:".gcbot"},
+        {title: 'Group Bot', description: "Official Group AHMADBOT", rowId:".gcbot"},
         {title: 'Cara Invit?', description: "Cara Memasukkan Bot Di GC", rowId:".tutorbot"},
         {title: 'Owner', description: "Owner/Creator Bot", rowId:".owner"},
        ] }],
