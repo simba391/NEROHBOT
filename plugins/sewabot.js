@@ -23,9 +23,9 @@ let handler = async(m, { conn }) => {
         {title: 'VIA PULSA :', description: "RP5.000\nSewa bot PERMANENT.", rowId:".masuk"},
         {title: 'VIA DANA :', description: "RP10.000\nSewa bot PERMANENT.", rowId:".masuk"},
         {title: 'VIA GOPAY :', description: "RP10.000\nSewa bot PERMANENT.", rowId:".masuk"},
-        {title: 'Trial', description: "Free\nBot Free 1 Hari.", rowId:".masuk"},
+        {title: 'PERMANENT DECK', description: "Rp5.000\nPremium.", rowId:".masuk"},
         {title: 'Owner', description: "Chat owner nya jika ada perlu.", rowId:".owner"},
-        {title: 'Rules', description: "Rules BOT AHMAD.", rowId:".snk"},
+        {title: 'Rules', description: "Rules Ahmad BOT.", rowId:".snk"},
        ] }],
         listType: 1
        }
