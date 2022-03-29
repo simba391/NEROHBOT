@@ -9,7 +9,7 @@ const anu = {
                         },
        message: {
                     documentMessage: {
-                    title: '© Toimg By LynnXzy', 
+                    title: '© Toimg By AhmadBOT', 
                     jpegThumbnail: fs.readFileSync('./src/IMG-20220322-WA0026.jpg')
                           }
                         }
