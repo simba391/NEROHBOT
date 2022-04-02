@@ -13,9 +13,9 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.linkGC = ['https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL', 'https://chat.whatsapp.com/LcbHXfIVrD9APFFW2E9cXC', 'https://chat.whatsapp.com/Dj8kMyI48u6KGbaAQtKi70'] // ganti jadi group lu
-global.owner = ['6281250521455', '6281250521455', '6281250521455'] // Masukan nomot kalian
-global.mods = ['6281250521455', '6281250521455'] // Moderator
+global.linkGC = ['https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxyNL', 'https://chat.whatsapp.com/LcbHXfIVrD9APFFW5E9cXC', 'https://chat.whatsapp.com/Dj8kMyI48u6KGbaAQtKi02'] // ganti jadi group lu
+global.owner = ['6281268477296', '6281268477296', '6281268477296'] // Masukan nomot kalian
+global.mods = ['6282225232861', '682225232861'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -79,7 +79,7 @@ global.nsfw = '“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mere
 global.eror = '_*Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
-global.watermark = '©AhmadBOT    ?' //change the watermark (beberapa harus manual)
+global.watermark = '©NerohBOT    ?' //change the watermark (beberapa harus manual)
 
 // Ubah saja
 global.image = 'https://telegra.ph/file/a60af91a1c5b4e12967fd.jpg'//thumbnail
