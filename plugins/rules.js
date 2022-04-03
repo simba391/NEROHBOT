@@ -28,8 +28,8 @@ let handler = async(m, { conn }) => {
 ║│➥ *Total user:* *${Object.keys(global.db.data.users).length}* Pengguna
 ║╰──────────────────
 ║╭─────❉〘 𝘿𝙊𝙉𝘼𝙎𝙄 〙❉───── 
-║│➥ Dana : 6281250521455
-║│➥ GOPAY : 6281250521455
+║│➥ Dana : 6281268477296
+║│➥ GOPAY : 6281268477296
 ║╰──────────────────
 ║╭─────❉〘 𝗥𝗘𝗤𝗨𝗘𝗦𝗧 〙❉─────
 ║│➥http://github.com/AhmadBOTV3z
@@ -37,11 +37,11 @@ let handler = async(m, { conn }) => {
 ╠════════════════════════
 ║╭────❉ 「 𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘿𝙄𝘼 」 ❉─────
 ║│ ❍ *𝗢𝗪𝗡𝗘𝗥*          :
-║│ wa.me/6281250521455
+║│ wa.me/6281268477296
 ║│ ❍ *𝗬𝗢𝗨𝗧𝗨𝗕𝗘*               :
-║│ https://tinyurl.com/ya49ovfp
+║│ https://tinyurl.com/ya42opfp
 ║│ ❍ *𝗧𝗜𝗞𝗧𝗢𝗞*                   :
-║│ https://vt.tiktok.com/ZSeos3uX5/
+║│ https://vt.tiktok.com/Zyeos3tX5/
 ║╰──────────────────
 ╠════════════════════════
 ║╭─────────────────
@@ -60,7 +60,7 @@ let handler = async(m, { conn }) => {
         sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
         {title: 'Menu Utama', description: "Kembali ke Menu Utama", rowId:".?"},
         {title: 'Sewa Bot', description: "Sewa bot dengan memasukkan bot ke grup kamu", rowId:".sewa"},
-        {title: 'Group Bot', description: "Official Group AHMADBOT", rowId:".gcbot"},
+        {title: 'Group Bot', description: "Official Group NEROHBOT", rowId:".gcbot"},
         {title: 'Cara Invit?', description: "Cara Memasukkan Bot Di GC", rowId:".tutorbot"},
         {title: 'Owner', description: "Owner/Creator Bot", rowId:".owner"},
        ] }],
