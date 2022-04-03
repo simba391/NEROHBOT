@@ -21,7 +21,7 @@ let handler = async (m, { conn, text }) => {
 _Oke udah itu aja terimakasih_
 
 `.trim()
-conn.send3ButtonLoc(m.chat, await (await fetch(fla + 'AhmadBOT')).buffer(), ext, 'Recoded By AhmadBOT', 'Nomor Owner', '.owner', 'Donasi', '.donasi', 'Sewa Bot', '.sewa', m)
+conn.send3ButtonLoc(m.chat, await (await fetch(fla + 'NerohBOT')).buffer(), ext, 'Recoded By NerohBOT', 'Nomor Owner', '.owner', 'Donasi', '.donasi', 'Sewa Bot', '.sewa', m)
 
 }
 handler.help = ['infoowner', 'infocreator']
