@@ -11,9 +11,9 @@ let handler = async(m, { conn }) => {
 𝗦𝗶𝗹𝗮𝗸𝗮𝗻 𝗸𝗹𝗶𝗸 𝗽𝗮𝗱𝗮 "𝗟𝗶𝘀𝘁 𝗛𝗮𝗿𝗴𝗮" 𝘂𝗻𝘁𝘂𝗸 𝗺𝗲𝗹𝗶𝗵𝗮𝘁 𝗹𝗶𝘀𝘁.
 ╭═══════════════════════
 ║╭──❉ 〔 𝐕𝐈𝐀 𝐓𝐎𝐏𝐔𝐏 〕 ❉──────
-║│➸ *GOPAY* : 6281250521455
-║│➸ *DANA*: 6281250521455
-║│➸ *Owner*: wa.me/6281250521455
+║│➸ *GOPAY* : 6281268477296
+║│➸ *DANA*: 6281268477296
+║│➸ *Owner*: wa.me/6281268477296
 ║╰─────────────────────
 ╰═══════════════════════`.trim()
     const button = {
@@ -25,7 +25,7 @@ let handler = async(m, { conn }) => {
         {title: 'VIA GOPAY :', description: "RP10.000\nSewa bot PERMANENT.", rowId:".masuk"},
         {title: 'PERMANENT DECK', description: "Rp5.000\nPremium.", rowId:".masuk"},
         {title: 'Owner', description: "Chat owner nya jika ada perlu.", rowId:".owner"},
-        {title: 'Rules', description: "Rules Ahmad BOT.", rowId:".snk"},
+        {title: 'Rules', description: "Rules Neroh BOT.", rowId:".snk"},
        ] }],
         listType: 1
        }
