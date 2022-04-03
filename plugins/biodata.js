@@ -3,7 +3,7 @@ let handler = async (m, { conn, text }) => {
   let ext= `
 ╭═════════════════
 ║╭──❉ *𝐁𝐈𝐎𝐃𝐀𝐓𝐀 𝐎𝐖𝐍𝐄𝐑* ❉───
-║│➸ *Nama* : Ahmad
+║│➸ *Nama* : Neroh
 ║│➸ *Umur* : GK PERLUH TAUH LU
 ║│➸ *Kelas* :  KEPO LUWH
 ║│➸ *Status* : "Day" is not important to me
@@ -11,8 +11,8 @@ let handler = async (m, { conn, text }) => {
 ╰════════════════
 ╭════════════════
 ║╭──❉ *𝐒𝐎𝐒𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀* ❉───
-║│➸ *No.Owner* : wa.me/6281250521455
-║│➸ *No.Bot* : wa.me/6281250521455
+║│➸ *No.Owner* : wa.me/6281268477296
+║│➸ *No.Bot* : wa.me/6281268477296
 ║│➸ *Chanel Youtube* : GK ADA 
 ║│➸ *Gmail* : MALESNGISI@gmail.com
 ║│➸ *Github* : https://github.com/AhmadBOTV3z
@@ -21,7 +21,7 @@ let handler = async (m, { conn, text }) => {
 _Oke udah itu aja terimakasih_
 
 `.trim()
-conn.send3ButtonLoc(m.chat, await (await fetch(fla + 'AhmadBOT')).buffer(), ext, 'Recoded By AhmadBOT', 'Nomor Owner', '.owner', 'Donasi', '.donasi', 'Sewa Bot', '.sewa', m)
+conn.send3ButtonLoc(m.chat, await (await fetch(fla + 'NeeohBOT')).buffer(), ext, 'Recoded By NerohBOT', 'Nomor Owner', '.owner', 'Donasi', '.donasi', 'Sewa Bot', '.sewa', m)
 
 }
 handler.help = ['infoowner', 'infocreator']
