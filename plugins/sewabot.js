@@ -35,4 +35,4 @@ handler.tags = ['main']
 handler.command = /^(sewa)$/i
 handler.help = ['sewa']
 module.exports = handler
-//AHMADBOT
+//NEROHBOT
