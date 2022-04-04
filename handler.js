@@ -138,7 +138,7 @@ module.exports = {
             level: 0,
             title: 'Nothing',
             exp: 0,
-            limit: 20,
+            limit: 5,
             lastclaim: 0,
             lastgetmoney: 0,
             money: 12000,
