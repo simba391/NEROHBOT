@@ -29,16 +29,16 @@ handler.all = async function (m, { isBlocked }) {
     // ketika ada yang invite/kirim link grup di chat pribadi
     if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('https://chat') || m.text.startsWith('Buka tautan ini')) && !m.isBaileys && !m.isGroup) {
         this.send2ButtonLoc(m.chat, await (await fetch(fla + 'sewa bot')).buffer(), `╠═〘 Beli Bot 〙 ═
-╠➥ *VIA PULSA* :      *Rp 5.000*
+╠➥ *VIA PULSA* :      *Rp 20.000*
 ╠➥ *VIA DANA* : *Rp 10.000*
 ╠➥ *VIA GOPAY* :   *Rp 10.000*
 ╠➥ *SEMUA PERMANENT* *PREMIUM:Rp10.000*
 ║
 ╠═〘 𝐏𝐄𝐌𝐁𝐀𝐘𝐀𝐑𝐀𝐍 〙 ═
 ╠➥ TOPUP/PIN
-║- 6281250521455 (DANA)
-║- 6281250521455 (GOPAY)
-╠═〘 AHMADBOT 〙 ═`.trim(), '©AhmadBOT', 'Dana', '#viadana', 'Gopay', '#viagopay', m)
+║- 6281268477296 (DANA)
+║- 6281268477296 (GOPAY)
+╠═〘 NEROHBOT 〙 ═`.trim(), '©NerohBOT', 'Dana', '#viadana', 'Gopay', '#viagopay', m)
 }
 
     // salam
@@ -68,7 +68,7 @@ handler.all = async function (m, { isBlocked }) {
     if (new Date() * 1 - setting.status > 1000) {
         let _uptime = process.uptime() * 1000
         let uptime = clockString(_uptime)
-        await this.setStatus(`Aktif selama ${uptime} | Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} |Botz by AhmadBOT
+        await this.setStatus(`Aktif selama ${uptime} | Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} |Botz by NerohBOT
 `).catch(_ => _)
         setting.status = new Date() * 1
     }
