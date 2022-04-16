@@ -11,17 +11,17 @@ let handler = async(m, { conn }) => {
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Pulsa (TELKOM): 6281268477296 (+5.000)
+Pulsa (TELKOM): 6281268477296 (+20.000)
 Dana: 6281268477296 (10.000) GOPAY:6281268477296 (10.000)
 `.trim()
     const button = {
         buttonText: 'List Harga',
         description: kamisato,
         sections:  [{title: "Silahkan di pilih", rows: [
-        {title: 'VIA PULSA :', description: "Rp5.000\nSewa bot tanpa batasan waktu.", rowId:".masuk"},
+        {title: 'VIA PULSA :', description: "Rp20.000\nSewa bot tanpa batasan waktu.", rowId:".masuk"},
         {title: 'VIA DANA :', description: "Rp10.000\nSewa bot tanpa batasan waktu.", rowId:".masuk"},
         {title: 'VIA GOPAY :', description: "Rp10.000\nSewa bot tanpa batasan waktu.", rowId:".masuk"},
-        {title: 'PREMIUM', description: "Rp5.000\nPremium PERMANENT.", rowId:".join"},
+        {title: 'PREMIUM', description: "Rp10.000\nPremium PERMANENT.", rowId:".join"},
         {title: 'Owner', description: "Chat owner nya jika ada perlu.", rowId:".owner"},
         {title: 'Rules', description: "Kebijakan Privasi, Syarat Ketentuan dan Peraturan.", rowId:".rules"},
        ] }],
