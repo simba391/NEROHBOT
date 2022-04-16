@@ -20,10 +20,10 @@ let handler = async(m, { conn }) => {
         buttonText: 'List Harga',
         description: kamisato,
         sections:  [{title: "Silahkan di pilih", rows: [
-        {title: 'VIA PULSA :', description: "RP5.000\nSewa bot PERMANENT.", rowId:".masuk"},
+        {title: 'VIA PULSA :', description: "RP20.000\nSewa bot PERMANENT.", rowId:".masuk"},
         {title: 'VIA DANA :', description: "RP10.000\nSewa bot PERMANENT.", rowId:".masuk"},
         {title: 'VIA GOPAY :', description: "RP10.000\nSewa bot PERMANENT.", rowId:".masuk"},
-        {title: 'PERMANENT DECK', description: "Rp5.000\nPremium.", rowId:".masuk"},
+        {title: 'PERMANENT DECK', description: "Rp10.000\nPremium.", rowId:".masuk"},
         {title: 'Owner', description: "Chat owner nya jika ada perlu.", rowId:".owner"},
         {title: 'Rules', description: "Rules Neroh BOT.", rowId:".snk"},
        ] }],
