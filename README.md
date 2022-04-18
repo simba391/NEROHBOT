@@ -35,9 +35,9 @@ Ganti session lu di `'./RadBotZ.json'`
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
 ```ts 
-OwnerNumber = ['wa.me/6281250521455']
+OwnerNumber = ['wa.me/6281268477296']
 GithubOwner = ['https://github.com/AhmadBOTV3z']
-GroupOwner = ['https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD']
+GroupOwner = ['https://chat.whatsapp.com/blomada']
 Apikey? = Apikey kalian, tidak paham? chat saya di wangsaf!
 
 Thumbnail
