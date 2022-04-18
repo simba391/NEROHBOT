@@ -57,7 +57,7 @@ global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
 
 ```bash
 git clone https://github.com/Kepoluwkwk/LOMADA
-cd AHMADBOT
+cd Lomada
 npm install
 npm update
 ```
