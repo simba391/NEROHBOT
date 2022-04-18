@@ -2,9 +2,9 @@
 <img src="https://telegra.ph/file/c28ced67bbdd935c8f140.png" alt="Ahmad BOT" width="200"/>
 
 
-<p align="center"> <a href="https://Lexxy24.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Ahmad+Aowkwowkwkwkwk" alt="Lexxy Official" /> </a> </p>
+<p align="center"> <a href="https://Lexxy24.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Neroh+Aowkwowkwkwkwk" alt="Lexxy Official" /> </a> </p>
 <p align="center">
-<a href="#"><img title="Ahmad BOT" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Neroh BOT" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 </p> 
